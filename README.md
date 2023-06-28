@@ -18,11 +18,11 @@ git clone https://github.com/your-username/ssh-brute-force-tool.git
 pip install -r requirements.txt
 
 3.  Prepare your input files:<br>
-    Create a text file containing the list of IP addresses, with one IP address per line.
-    Create a text file containing the list of usernames, with one username per line.
+    Create a text file containing the list of IP addresses, with one IP address per line.<br>
+    Create a text file containing the list of usernames, with one username per line.<br>
     Create a text file containing the list of passwords, with one password per line.
    
-5.  Run the script with the appropriate command-line arguments.
+4.  Run the script with the appropriate command-line arguments.
     Replace ip_addresses.txt with the path to your IP addresses file.
     Replace usernames.txt with the path to your usernames file.
     Replace passwords.txt with the path to your passwords file.
