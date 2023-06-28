@@ -24,9 +24,10 @@ pip install -r requirements.txt
    
 4.  Run the script with the appropriate command-line arguments.<br>
     Replace ip_addresses.txt with the path to your IP addresses file.<br>
-    Replace usernames.txt with the path to your usernames file.
-    Replace passwords.txt with the path to your passwords file.
-    -p is an optional argument to specify the number of processes to use for concurrent execution (default is 1).
+    Replace usernames.txt with the path to your usernames file.<br>
+    Replace passwords.txt with the path to your passwords file.<br>
+    -p is an optional argument to specify the number of processes to use for concurrent execution (default is 1).<br>
+
 python SSHMos.py ip_addresses.txt -U usernames.txt -P passwords.txt -p 4
 
 ## Output
