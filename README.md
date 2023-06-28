@@ -22,8 +22,8 @@ pip install -r requirements.txt
     Create a text file containing the list of usernames, with one username per line.<br>
     Create a text file containing the list of passwords, with one password per line.
    
-4.  Run the script with the appropriate command-line arguments.
-    Replace ip_addresses.txt with the path to your IP addresses file.
+4.  Run the script with the appropriate command-line arguments.<br>
+    Replace ip_addresses.txt with the path to your IP addresses file.<br>
     Replace usernames.txt with the path to your usernames file.
     Replace passwords.txt with the path to your passwords file.
     -p is an optional argument to specify the number of processes to use for concurrent execution (default is 1).
